@@ -23,7 +23,7 @@ One of the most common assumptions for many machine learning algorithms is that 
 
 ### Data Generation 
 
-Sometimes you just want to test the efficiency or performance of an algorithm with a certain type of data. When that is the case, you need to be able to generate a data set meeting a particular set of requirements. So next, we give you some hands on experience of generating synthentic data sets.
+Sometimes you just want to test the efficiency or performance of an algorithm with a certain type of data. When that is the case, you need to be able to generate a data set meeting a particular set of requirements. So next, we give you some hands on experience of generating synthetic data sets.
 
 ### Resampling Methods
 
@@ -31,7 +31,7 @@ Next up, we look at techniques for taking repeated subsamples from a sample usin
 
 ### Monte Carlo Simulations
 
-We finish up the section by introducing the idea of monte carlo simulations for running large numbers of simulations with various inputs to provide distributions of possible output values.
+We finish up the section by introducing the idea of Monte Carlo simulations for running large numbers of simulations with various inputs to provide distributions of possible output values.
 
 
 
